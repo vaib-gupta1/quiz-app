@@ -61,7 +61,7 @@ function App() {
 
   return ( 
     <HeaderContext.Provider value = {headerContextValue} >
-      <Header />
+      <Header /> 
       <div className="container">   
         <CardList cards={cards}/>
       </div>

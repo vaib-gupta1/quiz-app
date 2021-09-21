@@ -3,5 +3,8 @@
 @import "header.css";
 
 body {
-  background-color: thistle;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  margin: 0;
+  background-color: whitesmoke;
 }
