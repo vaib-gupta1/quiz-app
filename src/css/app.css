@@ -1,0 +1,7 @@
+@import "card.css";
+@import "card-list.css";
+@import "header.css";
+
+body {
+  background-color: thistle;
+}
